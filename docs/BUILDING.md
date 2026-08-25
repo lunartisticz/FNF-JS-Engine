@@ -84,6 +84,8 @@ head into the `setup` folder located in the root directory of this repository, a
 
 ### "Which setup file?"
 
+<!--Question, do we really need setup bash files when we have hmm? We could even use hxpkg for this.-->
+
 It depends on your Operating System. for Windows, run `windows.bat`, for anything else, `unix.sh`
 
 sit back, relax, wait for haxelib to do its magic, and once everything is done, run
